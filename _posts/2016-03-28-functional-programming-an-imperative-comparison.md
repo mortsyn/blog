@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Functional Programming for the Object-Oriented"
+title:  "Functional Programming: An Imperative Comparison"
 date:  March 28th, 2016
 blog: true
 ---
